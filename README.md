@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gocklkatz!
 - 👀 I’m interested in computers, programming and fishes.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on anything Java related.
 
 <!---
