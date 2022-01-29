@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gocklkatz!
 - 👀 I’m interested in computers, programming and fishes.
-- 💞️ I’m looking to collaborate on anything JavaScript/NodeJS/Java related.
+- 💞️ I’m looking to collaborate on anything JavaScript and Java related.
 
 <!---
 gocklkatz/gocklkatz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
