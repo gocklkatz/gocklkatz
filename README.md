@@ -12,7 +12,7 @@
 
 ## Certification
 
-- OCFA Java Foundations Exam Fundamentals (1Z0-811)
+- Java Foundations (1Z0-811)
 
 <!---
 gocklkatz/gocklkatz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
