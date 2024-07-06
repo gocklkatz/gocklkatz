@@ -7,7 +7,7 @@
 ## Experience
 
 - Java backend developer (5 years)
-- Java (1.8, 11, 17, 21)
+- Java (8, 11, 17, 21)
 - OCFA Java Foundations Exam Fundamentals (1Z0-811)
 - Spring Framework (3 years)
 - Docker, Kubernetes (3 years)
