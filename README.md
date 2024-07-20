@@ -1,7 +1,7 @@
 ## Intro
 
 - 👋 Hi, I’m Stefan (@gocklkatz)!
-- 👀 I’m interested in computers, programming and fishes.
+- 👀 I’m interested in computers, programming and tv shows.
 - 💞️ I’m looking to collaborate on anything Operations Research and Java related.
 
 <!---
