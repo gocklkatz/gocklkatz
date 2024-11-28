@@ -1,6 +1,6 @@
 ## Intro
 
-- 👋 Hi, I’m Stefan (@gocklkatz)!
+- 👋 Hi, I’m Gocklkatz!
 - 👀 I’m interested in computers, programming and tv shows.
 - 💞️ I’m looking to collaborate on anything Java related.
 
